@@ -6,7 +6,7 @@ In this website, you can find all my 201 reading notes
 
 Read#    |  Link
 -----------|--------------
-Read 01     |  [link 1](https://roukiasalahi.github.io/reading-notes/class01)
+Read 01     |  [link 1]()
 Read 02     |  [link 2]()
 Read 03     |  [link 3]()
 Read 04     |  [link 4]()
