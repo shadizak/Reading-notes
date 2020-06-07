@@ -281,7 +281,7 @@ sayHello("Shadi hahahahha");
 
 ## return Keyword
 
-// With return
+ With return
 function sum(num1, num2) {
   return num1 + num2;
 }
@@ -295,8 +295,60 @@ function sum(num1, num2) {
 functions return (pass back) values using the return keyword. return ends function execution and returns the specified value to the location where it was called. A common mistake is to forget the return keyword, in which case the function will return undefined by default.
 
 
+ 
+## Comparison Operators
+1. == (Equal)
+Checks if the value of two operands are equal or not, if yes, then the condition becomes true.
 
- ## Summary 
+2. != (Not Equal)
+Checks if the value of two operands are equal or not, if the values are not equal, then the condition becomes true.
+
+3. > (Greater than)
+Checks if the value of the left operand is greater than the value of the right operand, if yes, then the condition becomes true.
+
+4. < (Less than)
+Checks if the value of the left operand is less than the value of the right operand, if yes, then the condition becomes true.
+
+5. >= (Greater than or Equal to)
+Checks if the value of the left operand is greater than or equal to the value of the right operand, if yes, then the condition becomes true.
+
+6. <= (Less than or Equal to)
+Checks if the value of the left operand is less than or equal to the value of the right operand, if yes, then the condition becomes true.
+
+7. ===	equal value and equal Data type
+
+8. !==	not equal value or not equal Data type
+
+# What is an Loops in JS?
+
+## JavaScript While Loop
+Loops can execute a block of code as long as a specified condition is true.
+
+-> Syntax:
+while (condition) {
+  // code block to be executed
+}
+
+## JavaScript For Loop
+Loops can execute a block of code a number of times.
+
+The For Loop
+
+-> syntax:
+
+for (statement 1; statement 2; statement 3) {
+  // code block to be executed
+}
+
+Statement 1 is executed (one time) before the execution of the code block.
+
+Statement 2 defines the condition for executing the code block.
+
+Statement 3 is executed (every time) after the code block has been executed.
+
+
+
+ #  Summary 
  
  A script is made up of a series of statements.
  Each statement is like a step in a recipe.
