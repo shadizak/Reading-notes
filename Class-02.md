@@ -78,7 +78,7 @@ NOTE: Neither have a closing tag or associated text, their use is fairly straigh
 ### Strong & Emphasis
 The <strong> and <em> tags are used for emphasizing parts of a text. The <strong> tag should be used to indicate strong importance, seriousness, or urgency, like to indicate key phrases in a text for someone skimming it. The <em> tag should be used to represent stress emphasis, like when you'd read the emphasized text in a different tone of voice. Both tags can be used together, where it makes sense.
  
- _Example code_
+ 
  
  ```
 <!DOCTYPE html>
@@ -92,8 +92,11 @@ The <strong> and <em> tags are used for emphasizing parts of a text. The <strong
  
  </body>
 </html>
+
  ```
+ 
  ### Quotation
+ 
  There are two elements commonly used for marking up quotations:
  
  1. ``` <blockquote> ```
@@ -112,7 +115,7 @@ Both elements may use the cite attribute to indicate where the quote is from. It
 ``` <abbr> ```
 The `<abbr>` tag defines an abbreviation or an acronym, like "HTML", "CSS", "Mr.", "Dr.", "ASAP", "ATM".
  
-_Example Code_ 
+ 
 
 ```
 <!DOCTYPE html>
