@@ -8,7 +8,7 @@
 3. Structural and semantic markup
  
  
- ### Headings
+ ##  Headings
  
 HTML has six "levels" of headings:
 <h1> is used for main headings <h2> is used for subheadings
@@ -39,7 +39,7 @@ By default, a browser will show each paragraph on a new line with some space bet
     <p>Shadi</p>
     <p>Zaqout</p>
  ```
-### Bold & iTalic 
+##  Bold & iTalic 
 
 1. ``` <b> ```
 By enclosing words in the tags <b> and </b> we can make characters appear bold.
@@ -49,7 +49,7 @@ The <b> element also represents a section of text that would be presented in a v
 By enclosing words in the tags <i> and </i> we can make characters appear italic.
 The <i> element also represents a section of text that would be said in a different way from surrounding content — such as technical terms, names of ships, foreign words, thoughts, or other terms that would usually be italicized. ``` </i> ``` 
   
-### Superscript and Subscript
+## Superscript and Subscript
 
 1. ``` <sup> ```
 The <sup> element is used
@@ -59,7 +59,7 @@ as the suffixes of dates or mathematical concepts like raising a number to a pow
 2. ``` <sub> ```
 The <sub> element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H20.
 
-### Horizontal rules and Line breaks
+## Horizontal rules and Line breaks
 There are two tags that can be used to control the layout of your page.
 1. Horizontal Rule ``` <hr> ```
 
@@ -75,7 +75,7 @@ As you have already seen, the browser will automatically show each new paragraph
 
 NOTE: Neither have a closing tag or associated text, their use is fairly straightforward.
 
-### Strong & Emphasis
+## Strong & Emphasis
 The <strong> and <em> tags are used for emphasizing parts of a text. The <strong> tag should be used to indicate strong importance, seriousness, or urgency, like to indicate key phrases in a text for someone skimming it. The <em> tag should be used to represent stress emphasis, like when you'd read the emphasized text in a different tone of voice. Both tags can be used together, where it makes sense.
  
  
@@ -98,10 +98,9 @@ The <strong> and <em> tags are used for emphasizing parts of a text. The <strong
 ## The Abbreviation element
 
 ``` <abbr> ```
-The `<abbr>` tag defines an abbreviation or an acronym, like "HTML", "CSS", "Mr.", "Dr.", "ASAP", "ATM".
- 
- 
 
+The ```<abbr>``` tag defines an abbreviation or an acronym, like "HTML", "CSS", "Mr.", "Dr.", "ASAP", "ATM".
+ 
 ```
 <!DOCTYPE html>
 <html>
@@ -114,7 +113,8 @@ The `<abbr>` tag defines an abbreviation or an acronym, like "HTML", "CSS", "Mr.
 </body>
 </html>
 ```
-### auTHor deTails
+##  auTHor deTails
+
 ``` <address> ```
 he <address> element has quite a specific use: to contain contact details for the author of the page.
 It can contain a physical address, but it does not have to. For example, it may also contain a phone number or email address.
@@ -128,6 +128,7 @@ homer@example.org</a></p>
 </address> 
 ```
 ## Example Text
+
 his is a very simple HTML page that demonstrates text markup.
 ```
 <html>
@@ -145,17 +146,15 @@ people who have nothing better to do</q>. Although many considered her pioneerin
 ```
 
 ## IntroducIng CSS
-  _into_
-
+  
 In this section, we will look at how to make your web pages more attractive, controlling the design of them using CSS.
-
-**Content table**
+ 
+ **Content table**
 
 1. Introduce you to how CSS works
 2. Teach you how to write CSS rules
 3. Show you how CSS rules apply to HTML pages
-
-
+ 
 **What is CSS?**
 
 CSS allows you to create rules that specify how the content of an element should appear. For example, you can specify that the background of the page is cream, all paragraphs should appear in gray using the Arial typeface, or that all level one headings should be in a blue, italic, Times typeface.
@@ -182,6 +181,7 @@ Declarations indicate how the elements referred to in the selector should be sty
 
 
 **How to write CSS**
+
 First you need to find the selector you want to apply **CSS** on it like paragraph or anything else like bellow
 ```
 p, h1, h2, li {
@@ -202,9 +202,9 @@ There are three way to implement your CSS with
  
 
 ## JavaScript 
-### JavaScript is the programming language of HTML and the Web.
+##  JavaScript is the programming language of HTML and the Web.
 
-### Why Study JavaScript?
+##  Why Study JavaScript?
 JavaScript is one of the 3 languages all web developers must learn:
 
    1. HTML to define the content of web pages
@@ -215,16 +215,16 @@ JavaScript is one of the 3 languages all web developers must learn:
 
 Web pages are not the only place where JavaScript is used. Many desktop and server programs use JavaScript. Node.js is the best known. Some databases, like MongoDB and CouchDB, also use JavaScript as their programming language.
 
-###  Basic Knowledge in JavaScript
+##  Basic Knowledge in JavaScript
 
-#### STATEMENT
+## STATEMENT
 A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement.
 Statements should end with a semicolon (;).
 
-#### COMMENTS
+##  COMMENTS
 You should write comments to explain what your code does. They help make your code easier to read and understand. This can help you and others who read your code. Like This : /* Thi s script displays a greeting to the user based upon the current time. It is an example from JavaScript &jQuery book */
 
-####  WHAT IS A VARIABLE?
+##  WHAT IS A VARIABLE?
 
 A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables.
 
@@ -308,7 +308,7 @@ functions return (pass back) values using the return keyword. return ends functi
 
 
 
- ### Summary 
+ ## Summary 
  
  A script is made up of a series of statements.
  Each statement is like a step in a recipe.
