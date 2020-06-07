@@ -7,7 +7,7 @@ In this website, you can find all my 201 reading notes
 Read#    |  Link
 -----------|--------------
 Read: 01 - Introductory HTML and JavaScript     |  [link 1](https://shadizak.github.io/reading-notes/class01)
-Read 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions     |  [link 2](https://shadizak.github.io/reading-notes/class02)
+Read 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions     |  [link 2](https://shadizak.github.io/reading-notes/class-02)
 Read 03     |  [link 3]()
 Read 04     |  [link 4]()
 Read 05     |  [link 5]()
