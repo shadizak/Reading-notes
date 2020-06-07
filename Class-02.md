@@ -95,17 +95,6 @@ The <strong> and <em> tags are used for emphasizing parts of a text. The <strong
 
  ```
  
- ## Quotation
- 
- There are two elements commonly used for marking up quotations:
- 1. The <blockquote> element:
-The <blockquote> element is used for longer quotes that take up an entire paragraph. Note how the <p> element is still used inside the <blockquote> element.
-Browsers tend to indent the contents of the <blockquote> element, however you should not use this element just to indent a piece of text — rather you should achieve this effect using CSS.
- 2. The <q> element
- The <q> element is used for shorter quotes that sit within
-a paragraph. Browsers are supposed to put quotes around the <q> element, however Internet Explorer does not — therefore many people avoid using the <q> element.
-Both elements may use the cite attribute to indicate where the quote is from. Its value should be a URL that will have more information about the source of the quotation.
- 
 ## The Abbreviation element
 
 ``` <abbr> ```
@@ -259,7 +248,7 @@ Ex:
 var price1 = 5;
 var price2 = 6;
 var total = price1 + price2;
-# JavaScript
+ 
 ## Expressions and Operators:
 
 1. JavaScript has the following types of operators.
