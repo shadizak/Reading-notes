@@ -118,7 +118,7 @@ You may also be interested in something called the hCard microformat for adding 
 ## Example Text
 
 his is a very simple HTML page that demonstrates text markup.
- 
+ ```
 <html>
   <head>
 <title>Text</title> </head>
@@ -131,7 +131,7 @@ an hour now. On her desk, lying between the copies of <i>Nature</i>, <i>New Scie
 people who have nothing better to do</q>. Although many considered her pioneering work, unraveling the secrets of the llama <abbr title="Deoxyribonucleic acid">DNA</abbr>, to be an outstanding achievement, Molly <em>did</em> think she had something better to do.</p>
   </body>
 </html>
- 
+ ```
 
 ## IntroducIng CSS
   
