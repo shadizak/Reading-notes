@@ -1,5 +1,5 @@
  
-# Today we are going to talk about texts and CSS in HTML
+# Today we are going to talk about texts,CSS and JS in HTML
 
 ## Text
 
