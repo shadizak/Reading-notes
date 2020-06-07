@@ -1,3 +1,4 @@
+
  
 # Today we are going to talk about texts,CSS and JS in HTML
 
@@ -11,105 +12,115 @@
  ##  Headings
  
 HTML has six "levels" of headings:
-<h1> is used for main headings <h2> is used for subheadings
-If there are further sections under the subheadings then the <h3> element is used, and so on...
-Browsers display the contents of headings at different sizes. The contents of an <h1> element is the largest, and the contents of an <h6> element is the smallest. The exact size at which each browser shows the headings can vary slightly. Users can also adjust the size of text in their browser. You will see how to control the size of text, its color, and the fonts used when we come to look at CSS.
+`<h1>` is used for main headings 
+`<h2>` is used for subheadings
+If there are further sections under the subheadings then the`<h3>` element is used, and so on...
+
+Browsers display the contents of headings at different sizes. The contents of an `<h1>` element is the largest, and the contents of an `<h6>` element is the smallest. The exact size at which each browser shows the headings can vary slightly. Users can also adjust the size of text in their browser. You will see how to control the size of text, its color, and the fonts used when we come to look at CSS.
  
-html>
-    <body>
-         <h1>This is a Main Heading</h1>
-         <h2>This is a Level 2 Heading</h2>
-         <h3>This is a Level 3 Heading</h3>
-         <h4>This is a Level 4 Heading</h4>
-         <h5>This is a Level 5 Heading</h5>
-         <h6>This is a Level 6 Heading</h6>
-         
-    </body>
-</html>
+
+    <html>
+        <body>
+             <h1>This is a Main Heading</h1>
+             <h2>This is a Level 2 Heading</h2>
+             <h3>This is a Level 3 Heading</h3>
+             <h4>This is a Level 4 Heading</h4>
+             <h5>This is a Level 5 Heading</h5>
+             <h6>This is a Level 6 Heading</h6>
+             
+        </body>
+    </html>
+
  
 ##  Paragraphs 
-To create a paragraph, surround the words that make up the paragraph with an opening <p> tag and closing </p> tag.
+To create a paragraph, surround the words that make up the paragraph with an opening `<p>` tag and closing `</p>` tag.
 By default, a browser will show each paragraph on a new line with some space between it and any subsequent paragraphs.
- 
+
+     
     <p>Shadi</p>
     <p>Zaqout</p>
+
  
 ##  Bold & iTalic 
 
-1.the  <b>  
-By enclosing words in the tags <b> and </b> we can make characters appear bold.
-The <b> element also represents a section of text that would be presented in a visually different way (for example key words in a paragraph) although the use of the <b> element does not imply any additional meaning.
+1. The  `<b>`  tag:
+By enclosing words in the tags `<b>` and `</b>` we can make characters appear bold.
+The `<b>` element also represents a section of text that would be presented in a visually different way (for example key words in a paragraph) although the use of the `<b>` element does not imply any additional meaning.
 
-2. the <i>  
-By enclosing words in the tags <i> and </i> we can make characters appear italic.
-The <i> element also represents a section of text that would be said in a different way from surrounding content — such as technical terms, names of ships, foreign words, thoughts, or other terms that would usually be italicized. 
-  
+2. the `<i>`  
+By enclosing words in the tags `<i>` and `</i>` we can make characters appear italic.
+The `<i>` element also represents a section of text that would be said in a different way from surrounding content — such as technical terms, names of ships, foreign words, thoughts, or other terms that would usually be italicized. 
+
 # Superscript and Subscript
 
-1. <sup> 
-The <sup> element is used
-to contain characters that should be superscript such
+1. The `<sup>` tag: 
+The `<sup`> element is use to contain characters that should be superscript such
 as the suffixes of dates or mathematical concepts like raising a number to a power such as 22.
 
-2. <sub>
-The <sub> element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H20.
+2. The `<sub>` tag
+The `<sub>` element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H20.
 
 ## Horizontal rules and Line breaks
 
 There are two tags that can be used to control the layout of your page.
-1. Horizontal Rule  <hr>  
+1. Horizontal Rule  `<hr>`  
 
 To create a break between themes — such as a change of topic in a book or a new scene
-in a play — you can add a horizontal rule between sections using the <hr /> tag.
+in a play — you can add a horizontal rule between sections using the `<hr/`> tag.
+
 There are a few elements that do not have any words between an opening and closing tag. They are known as empty elements and they are written differently.
 An empty element usually
 has only one tag. Before the closing angled bracket of an empty element there will often be a space and a forward slash character. Some web page authors miss this out but it is a good habit to get into.
 
 2. Line break ``` <br> ``` inserts a end of line where it appear
-As you have already seen, the browser will automatically show each new paragraph or heading on a new line. But if you wanted to add a line break inside the middle of a paragraph you can use the line break tag <br />.
+As you have already seen, the browser will automatically show each new paragraph or heading on a new line. But if you wanted to add a line break inside the middle of a paragraph you can use the line break tag `<br />.` 
 
-
-NOTE: Neither have a closing tag or associated text, their use is fairly straightforward.
+## *NOTE: Neither have a closing tag or associated text, their use is fairly straightforward.* 
 
 ## Strong & Emphasis
-The <strong> and <em> tags are used for emphasizing parts of a text. The <strong> tag should be used to indicate strong importance, seriousness, or urgency, like to indicate key phrases in a text for someone skimming it. The <em> tag should be used to represent stress emphasis, like when you'd read the emphasized text in a different tone of voice. Both tags can be used together, where it makes sense.
+
+The `<strong>` and `<em>` tags are used for emphasizing parts of a text. The `<strong>` tag should be used to indicate strong importance, seriousness, or urgency, like to indicate key phrases in a text for someone skimming it. The `<em>` tag should be used to represent stress emphasis, like when you'd read the emphasized text in a different tone of voice. Both tags can be used together, where it makes sense.
  
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title>HTML:The strong and em tags</title>
-</head>
-<body>
-      <p>Where recognition of the inherent dignity and of the <strong>equal and inalienable rights</strong> of <em>all members of the human family</em> is the foundation of <strong><em>freedom, justice and peace in the world</em></strong>.</p>
- 
- </body>
-</html>
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>HTML:The strong and em tags</title>
+    </head>
+    <body>
+          <p>Where recognition of the inherent dignity and of the <strong>equal and inalienable rights</strong> of <em>all members of the human family</em> is the foundation of <strong><em>freedom, justice and peace in the world</em></strong>.</p>
+     
+     </body>
+    </html>
 
  
  
-## The Abbreviation element
+## The Abbreviation element:
 
 ``` <abbr> ```
 
 The ```<abbr>``` tag defines an abbreviation or an acronym, like "HTML", "CSS", "Mr.", "Dr.", "ASAP", "ATM".
  
  
-<!DOCTYPE html>
-<html>
-<body>
 
-<h1>The abbr element</h1>
+    <!DOCTYPE html>
+    <html>
+    <body>
+    
+    <h1>The abbr element</h1>
+    
+    <p>The <abbr title="Cascading Style Sheets">CSS</abbr> was founded in Read 02 :) .</p>
+    
+    </body>
+    </html>
+     
 
-<p>The <abbr title="Cascading Style Sheets">CSS</abbr> was founded in Read 02 :) .</p>
-
-</body>
-</html>
- 
-##  auTHor deTails
+##  AUTHor deTails
 
 ``` <address> ```
-he <address> element has quite a specific use: to contain contact details for the author of the page.
+
+he `<address>` element has quite a specific use: to contain contact details for the author of the page.
 It can contain a physical address, but it does not have to. For example, it may also contain a phone number or email address.
 Browsers often display the content of the <address> element in italics.
 You may also be interested in something called the hCard microformat for adding physical address information to your markup.
