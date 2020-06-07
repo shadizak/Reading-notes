@@ -45,9 +45,9 @@ By default, a browser will show each paragraph on a new line with some space bet
 By enclosing words in the tags <b> and </b> we can make characters appear bold.
 The <b> element also represents a section of text that would be presented in a visually different way (for example key words in a paragraph) although the use of the <b> element does not imply any additional meaning.
 
-2. ``` <i> ```
+2. <i>  
 By enclosing words in the tags <i> and </i> we can make characters appear italic.
-The <i> element also represents a section of text that would be said in a different way from surrounding content — such as technical terms, names of ships, foreign words, thoughts, or other terms that would usually be italicized.
+The <i> element also represents a section of text that would be said in a different way from surrounding content — such as technical terms, names of ships, foreign words, thoughts, or other terms that would usually be italicized. 
   
 ### Superscript and Subscript
 1. ``` <sup> ```
