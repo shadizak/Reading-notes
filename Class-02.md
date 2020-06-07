@@ -15,9 +15,6 @@ HTML has six "levels" of headings:
 If there are further sections under the subheadings then the <h3> element is used, and so on...
 Browsers display the contents of headings at different sizes. The contents of an <h1> element is the largest, and the contents of an <h6> element is the smallest. The exact size at which each browser shows the headings can vary slightly. Users can also adjust the size of text in their browser. You will see how to control the size of text, its color, and the fonts used when we come to look at CSS.
  
-_For Example_
- 
-```
 html>
     <body>
          <h1>This is a Main Heading</h1>
@@ -29,16 +26,14 @@ html>
          
     </body>
 </html>
-```
-### Paragraphs 
+ 
+##  Paragraphs 
 To create a paragraph, surround the words that make up the paragraph with an opening <p> tag and closing </p> tag.
 By default, a browser will show each paragraph on a new line with some space between it and any subsequent paragraphs.
- _For Example_
  
-```
     <p>Shadi</p>
     <p>Zaqout</p>
- ```
+ 
 ##  Bold & iTalic 
 
 1.the  <b>  
@@ -51,17 +46,18 @@ The <i> element also represents a section of text that would be said in a differ
   
 # Superscript and Subscript
 
-1. ``` <sup> ```
+1. <sup> 
 The <sup> element is used
 to contain characters that should be superscript such
 as the suffixes of dates or mathematical concepts like raising a number to a power such as 22.
 
-2. ``` <sub> ```
+2. <sub>
 The <sub> element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H20.
 
 ## Horizontal rules and Line breaks
+
 There are two tags that can be used to control the layout of your page.
-1. Horizontal Rule ``` <hr> ```
+1. Horizontal Rule  <hr>  
 
 To create a break between themes — such as a change of topic in a book or a new scene
 in a play — you can add a horizontal rule between sections using the <hr /> tag.
@@ -78,9 +74,6 @@ NOTE: Neither have a closing tag or associated text, their use is fairly straigh
 ## Strong & Emphasis
 The <strong> and <em> tags are used for emphasizing parts of a text. The <strong> tag should be used to indicate strong importance, seriousness, or urgency, like to indicate key phrases in a text for someone skimming it. The <em> tag should be used to represent stress emphasis, like when you'd read the emphasized text in a different tone of voice. Both tags can be used together, where it makes sense.
  
- 
- 
- ```
 <!DOCTYPE html>
 <html>
 <head>
@@ -93,7 +86,7 @@ The <strong> and <em> tags are used for emphasizing parts of a text. The <strong
  </body>
 </html>
 
- ```
+ 
  
 ## The Abbreviation element
 
@@ -101,7 +94,7 @@ The <strong> and <em> tags are used for emphasizing parts of a text. The <strong
 
 The ```<abbr>``` tag defines an abbreviation or an acronym, like "HTML", "CSS", "Mr.", "Dr.", "ASAP", "ATM".
  
-```
+ 
 <!DOCTYPE html>
 <html>
 <body>
@@ -112,7 +105,7 @@ The ```<abbr>``` tag defines an abbreviation or an acronym, like "HTML", "CSS", 
 
 </body>
 </html>
-```
+ 
 ##  auTHor deTails
 
 ``` <address> ```
@@ -121,16 +114,11 @@ It can contain a physical address, but it does not have to. For example, it may 
 Browsers often display the content of the <address> element in italics.
 You may also be interested in something called the hCard microformat for adding physical address information to your markup.
 
- ``` <address>
-<p><a href="mailto:homer@example.org">
-homer@example.org</a></p>
-<p>742 Evergreen Terrace, Springfield.</p>
-</address> 
-```
+  
 ## Example Text
 
 his is a very simple HTML page that demonstrates text markup.
-```
+ 
 <html>
   <head>
 <title>Text</title> </head>
@@ -143,7 +131,7 @@ an hour now. On her desk, lying between the copies of <i>Nature</i>, <i>New Scie
 people who have nothing better to do</q>. Although many considered her pioneering work, unraveling the secrets of the llama <abbr title="Deoxyribonucleic acid">DNA</abbr>, to be an outstanding achievement, Molly <em>did</em> think she had something better to do.</p>
   </body>
 </html>
-```
+ 
 
 ## IntroducIng CSS
   
