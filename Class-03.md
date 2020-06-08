@@ -279,3 +279,30 @@ Statement 3 increases a value (i++) each time the code block in the loop has bee
 4.  _Increment/decrement of the index variable will happen, which controls the loop._
 5.  _The body of the loop contains logical statements that need to iterate._
 
+# While Loop
+Loops can execute a block of code as long as a specified condition is true.
+ 
+
+### Syntax
+
+    while  (_condition_) {  
+	  code block to be executed  
+    }
+In the following example, the code in the loop will run, over and over again, as long as a variable (i) is less than 10:
+### Example
+
+    while  (i <  10) {  
+    text +=  "The number is "  + i;  
+    i++;  
+    }
+    
+## The Do/While Loop
+
+The  `do/while`  loop is a variant of the while loop. This loop will execute the code block once, before checking if the condition is true, then it will repeat the loop as long as the condition is true.
+
+### Syntax
+
+    do  {  
+    _// code block to be executed  
+    _}  
+    while  (_condition_);
