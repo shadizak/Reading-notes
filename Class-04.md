@@ -132,6 +132,9 @@ function sayHello() {
     alert("Hello");
 };
 
+![image info](./img/img4.png)
+
+
 You defined the function, but did not yet call or execute it.
 
 Type sayHello(); to call the function by its name and a set of parentheses (). You just executed your function!
