@@ -117,4 +117,10 @@ This moves an element from the position it would be in normal flow, shifting it 
 
 ![image info](./img/img2.png)
 
+**Absolute Positioning**
 
+This positions the element  
+in relation to its containing element. It is taken out of normal flow, meaning that it does not affect the position  
+of any surrounding elements (as they simply ignore the space it would have taken up). Absolutely positioned elements move as users scroll up and down the page.
+
+![image info](./img/img3.png)
