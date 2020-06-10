@@ -143,4 +143,73 @@ Computer monitors are made up of thousands of tiny squares called pixels (if you
 When the screen is not turned on, it's black because it's not emitting any light. When it's on, each pixel can be a different color, creating a picture.
 
 The color of every pixel on the screen is expressed in terms of a mix of red, green, and blue — just like on a television screen
-![image info](./img7.png)
+![image info](./img/img7.png)
+
+> # 3. Text in Links:
+
+ - Size and typeface of text
+ - Bold, italics, capitals, underlines
+ - Spacing between lines, words, and letters
+
+> **The properties that allow you to control the appearance of text can be
+> split into two groups:**
+
+ 1. Those that directly affect the font and its appearance (including
+    the typeface, whether it is regular, bold or italic, and the size of
+    the text).
+    
+ 2. Those that would have the same effect on text no matter what font
+   you were using (including the color of text and the spacing between
+    words and letters).
+
+
+### 1. Specifying Typefaces
+
+#### By Using > font-family
+he font-family property allows you to specify the typeface that should be used for any text inside the element(s) to which a CSS rule applies.
+
+The value of this property is the name of the typeface you want to use.
+
+The people who are visiting your site need the typeface you have specified installed on their computer in order for it to be displayed.
+
+You can specify a list of fonts separated by commas so that,  
+if the user does not have your first choice of typeface installed, the browser can try to use an alternative font from the list.
+
+It is also common to end with a generic font name for that type of font (which you saw on pages 269-270).
+
+If a font name is made up of more than one word, it should be put in double quotes.
+
+Designers suggest pages usually look better if they use no more than three typefaces on a page.
+
+### 2. Size of Type 
+### By Using :> font-size
+The font-size property enables you to specify a size for the  font. There are several ways to specify the size of a font. The most common are:
+
+1. Pixels
+
+	Pixels are commonly used because they allow web designers very precise control over how much space their text takes up. The number of pixels is followed by the letters px.
+
+2. Percentages
+
+	The default size of text in browsers is 16px. So a size of 75% would be the equivalent of 12px, and 200% would be 32px.
+
+	If you create a rule to make all text inside the <body> element to be 75% of the default size (to make it 12px), and then specify another rule that indicates the content of an element inside the <body> element should be 75% size, it will be 9px (75% of the 12px font size).
+
+3. ems
+
+	An em is equivalent to the width of a letter m.
+	
+![image info](./img/img8.png)
+
+## 3. Bold
+
+### By >> font-weight
+The font-weight property allows you to create bold text. There are two values that this property commonly takes:
+  **1. Normal**
+This causes text to appear at a normal weight.
+  **2. Bold**
+This causes text to appear bold.
+
+In this example, you can see that the element whose class attribute has a value of credits has been bolded.
+![image info](./img/img9.png)
+
