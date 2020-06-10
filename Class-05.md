@@ -143,4 +143,4 @@ Computer monitors are made up of thousands of tiny squares called pixels (if you
 When the screen is not turned on, it's black because it's not emitting any light. When it's on, each pixel can be a different color, creating a picture.
 
 The color of every pixel on the screen is expressed in terms of a mix of red, green, and blue — just like on a television screen
-![image info](./img/img7.png)
+![image info](./img7.png)
