@@ -120,7 +120,8 @@ of any surrounding elements (as they simply ignore the space it would have taken
 
 ![image info](./img/img3.png)
 
-> # 2. JavaScript Function: 
+
+> # 3. JavaScript Function: 
 
 A function is a series of statements that do something, such as calculate a value, perform a task, or complete another action. The difference between writing a function and just writing a bunch of statements is that a function encapsulates what you want to do. You get to use it again in a way similar to how we use variables to hold data types.
 
