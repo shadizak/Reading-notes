@@ -1,4 +1,5 @@
 
+
  
 # Today we are going to talk about HTML Links, CSS Layout, JS Functions
 
@@ -22,7 +23,7 @@ Links are created using the `<a>` element which has an attribute called href. Th
 
 Links are created using the `<a> element. Users can click on anything between the opening <a>` tag and the closing `</a>` tag. You specify which page you want to link to using the href attribute.
 
-![enter image description here](https://www2.stat.duke.edu/~fl35/teaching/440-19F/decks/images/html-structure.png)
+![info](https://www2.stat.duke.edu/~fl35/teaching/440-19F/decks/images/html-structure.png)
 
 
 **In details:**
@@ -106,5 +107,6 @@ of the boxes and there is space for two elements to sit side-by- side, they will
 
 
 The paragraphs appear one after the other, vertically down the page.
+
 
 ![image info](./img/img1.png)
