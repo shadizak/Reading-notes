@@ -106,6 +106,7 @@ per inch. So saving images at a higher resolution results in images that are lar
 HTML colors are specified with predefined color names, or with RGB, HEX, HSL, RGBA, or HSLA values.
 
 ## Color Values
+**The following three `<div>` elements have their background color set with RGB, HEX, and HSL values:**
 
     <h1 style="background-color:rgb(255, 99, 71);">...</h1>  
     <h1 style="background-color:#ff6347;">...</h1>  
@@ -114,3 +115,32 @@ Result:
 
 ![image info](./img/img6.png)
 
+ 1. ٌRGB Values
+ These express colors in terms of how much red, green and blue are used to make it up. For example: rgb(100,100,90)
+
+2. Hex Codes
+These are six-digit codes that represent the amount of red, green and blue in a color, preceded by a pound or hash # sign. For example: #ee3e80
+
+3. Color names
+There are 147 predefined color names that are recognized  
+by browsers. For example: DarkCyan.
+
+## Background  Color
+By -> `background-color`
+CSS treats each HTML element as if it appears in a box, and the background-color property sets the color of the background for that box.
+
+You can specify your choice of background color in the same three ways you can specify foreground colors: RGB values, hex codes, and color names (covered on the next page).
+
+If you do not specify a background color, then the background is transparent.
+
+By default, most browser windows have a white background, but browser users can set a background color for their windows, so if you want  
+to be sure that the background is white you can use the background-color property on the <body> element.
+
+## Understanding Color
+Every color on a computer screen is created by mixing amounts of red, green, and blue. To find the color you want, you can use a color picker
+Computer monitors are made up of thousands of tiny squares called pixels (if you look very closely at your monitor you should be able to see them).
+
+When the screen is not turned on, it's black because it's not emitting any light. When it's on, each pixel can be a different color, creating a picture.
+
+The color of every pixel on the screen is expressed in terms of a mix of red, green, and blue — just like on a television screen
+![image info](./img/img7.png)
