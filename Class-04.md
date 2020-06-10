@@ -110,3 +110,11 @@ The paragraphs appear one after the other, vertically down the page.
 
 
 ![image info](./img/img1.png)
+
+**Relative Positioning**
+
+This moves an element from the position it would be in normal flow, shifting it to the top, right, bottom, or left of where it would have been placed. This does not affect the position of surrounding elements; they stay in the position they would be in in normal flow.
+
+![image info](./img/img2.png)
+
+
