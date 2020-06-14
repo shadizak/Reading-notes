@@ -1,10 +1,5 @@
 
-
-
-
-
- 
-# Today's topics are interestin:
+# Today's topics are interestin and very Important:
 
 **>  1. JavaScript Object Literal**
 **>  2. Document Object Model**
