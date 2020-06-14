@@ -11,7 +11,7 @@ Read 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions     |  
 Read: 03 - HTML Lists, CSS Boxes, JS Control Flow     |   [link 3](https://shadizak.github.io/reading-notes/Class-03)
 Read: 04 - HTML Links, CSS Layout, JS Functions     |  [link 4](https://shadizak.github.io/reading-notes/Class-04)
 Read: 05 - HTML Images; CSS Color & Text     |  [link 5](https://shadizak.github.io/reading-notes/Class-05)
-Read 06     |  [link 6]()
+Read: 06 - JS Object Literals; The DOM     |  [link 6](https://shadizak.github.io/reading-notes/Class-06)
 Read 07     |  [link 7]()
 Read 08     |  [link 8]()
 Read 09     |  [link 9]()
