@@ -47,7 +47,8 @@ it to the far left or right of a containing box. The floated element becomes a b
 10. Pages can be fixed width or liquid (stretchy) layouts.
 11. Designers keep pages within 960-1000 pixels wide, and indicate what the site is about within the top 600 pixels (to demonstrate its relevance without scrolling).
 12. Grids help create professional and flexible designs.
-13. CSS Frameworks provide rules for common tasks. X You can include multiple CSS files in one page.
+13. CSS Frameworks provide rules for common tasks.
+14. You can include multiple CSS files in one page.
 
 
 
