@@ -24,7 +24,7 @@ The HTML  `<form>`  element defines a form that is used to collect user input:
     <form>
     </form>
     
- ![image info](./img/img10.jpg)
+ ![image info](./img/img10.png)
     
   An HTML form contains  **form elements**.
 
@@ -163,7 +163,7 @@ is being used, and the **:hover** psuedo-class applies the same styles when the 
  ## **3. JavaScript  Events**
 HTML events are  **"things"**  that happen to HTML elements
 When JavaScript is used in HTML pages, JavaScript can  **"react"**  on these events.
-![image info](./img/img11.jpg)
+![image info](./img/img11.png)
 ## HTML Events
 
 An HTML event can be something the browser does, or something a user does.
