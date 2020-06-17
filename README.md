@@ -14,7 +14,7 @@ Read: 05 - HTML Images; CSS Color & Text     |  [link 5](https://shadizak.github
 Read: 06 - JS Object Literals; The DOM     |  [link 6](https://shadizak.github.io/reading-notes/Class-06)
 Read: 07 - HTML Tables; JS Constructor Functions     |  [link 7](https://shadizak.github.io/reading-notes/Class-07)
 Read: 08 - More CSS Layout     |  [link 8](https://shadizak.github.io/reading-notes/Class-08)
-Read 09     |  [link 9]()
+Read: 09 - Forms and Events     |  [link 9](https://shadizak.github.io/reading-notes/Class-09)
 Read 10    |  [link 10]()
 Read 11    |  [link 11]()
 Read 12    |  [link 12]()
