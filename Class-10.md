@@ -3,7 +3,6 @@
 
 
 
-
 # Today's topics about  Handling Errors and  JS Debugging:
    
  # **1. Handling Errors**
@@ -119,3 +118,21 @@ Modern browsers will often use a combination of JavaScript and built-in HTML val
     finally {  
     Block of code to be executed regardless of the  try  /  catch  result  
    }
+# **2. JS Debugging**
+## HOW TO DEAL WITH ERRORS:
+1. DEBUG THE SCRIPT TO FIX ERRORS
+
+If you come across an error while writing a script (or when someone reports a bug), you will need to debug the code, track down the source of the error, and fix it.
+
+You will find that the developer tools available in every major modern browser will help you with  
+this task. In this chapter, you will learn about the developer tools in Chrome and Firefox. (The tools in Chrome are identical to those in Opera.)
+
+ 
+2.  HANDLE ERRORS GRACEFULLY You can handle errors gracefully using try, catch,
+
+throw, and f i na1ly statements.
+
+Sometimes, an error may occur in the script for a reason beyond your control. For example, you might request data from a third party, and their server may not respond. In such cases, it is particularly important to write error-handling code.
+## Debugging TOOLS:
+ ### 1.  BROWSER DEV.  TOOLS & JAVASCRIPT CONSOLE
+  ### 2 .JAVASCRIPT http://www.jslint.com http://www.jshint.com
