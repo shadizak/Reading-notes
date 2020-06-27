@@ -18,6 +18,6 @@ Read: 09 - Forms and Events     |  [link 9](https://shadizak.github.io/reading-n
 Read: 10 - JS Debugging   |  [link 10](https://shadizak.github.io/reading-notes/Class-10)
 Read: 11 - Assorted Topic|  [link 11](https://shadizak.github.io/reading-notes/Class-11)
 Read: 12 - Docs for the HTML <canvas> Element & Chart.js  |  [link 12](https://shadizak.github.io/reading-notes/Class-12)
-Read 13    |  [link 13]()
+Read: 13 - Local Storage   |  [link 13](https://shadizak.github.io/reading-notes/Class-13)
 Read 14    |  [link 14]()
 Read 15    |  [link 15]()
