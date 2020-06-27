@@ -19,5 +19,5 @@ Read: 10 - JS Debugging   |  [link 10](https://shadizak.github.io/reading-notes/
 Read: 11 - Assorted Topic|  [link 11](https://shadizak.github.io/reading-notes/Class-11)
 Read: 12 - Docs for the HTML <canvas> Element & Chart.js  |  [link 12](https://shadizak.github.io/reading-notes/Class-12)
 Read: 13 - Local Storage   |  [link 13](https://shadizak.github.io/reading-notes/Class-13)
-Read: 14a - CSS Transforms, Transitions, and Animations    |  [link 14](https://shadizak.github.io/reading-notes/Class-14)
-Read: 14b - What Google Learned About Teams    |  [link 14](https://shadizak.github.io/reading-notes/Class-15)
+Read: 14a - CSS Transforms, Transitions, and Animations    |  [link 14](https://shadizak.github.io/reading-notes/Class-15)
+Read: 14b - What Google Learned About Teams    |  [link 14](https://shadizak.github.io/reading-notes/Class-14)
